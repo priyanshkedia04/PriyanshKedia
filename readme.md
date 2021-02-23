@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi, I'm Priyansh Kedia 👋 <br/> </h2> 
 
-<p align="center"><img width=50% ![](Priyansh.jpg)"></p>
+<p align="center"><img width = 30% src = Priyansh.jpg></p>
 
 
 <p align="center"> <samp>
