@@ -95,8 +95,9 @@
 _____________
 
 <p align="center">
+Reach out to me on :point_right:
 <a href="https://www.linkedin.com/in/priyanshkedia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+<a href="mailto:priyanshkedia.dtu@gmail.com"><img width = 9% src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanshkedia.dtu@gmail.com"/></a>
   
 <p align="center">
 <a href="https://drive.google.com/file/d/1mDyNG0dc53amxkvidotnx4TO6ZrB8j4P/view"><img width = 22% src="https://img.shields.io/badge/Priyansh%20Kedia-Resume-blue"/></a>
