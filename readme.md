@@ -8,7 +8,7 @@
   
  <code>
  Student at Delhi Technological University | Expertise in Machine Learning, Deep Learning and Artificial Intelligence
- Python Developer | Research Student
+ | Python Developer | Research Student
   
   </code>
   
@@ -87,17 +87,7 @@
 
 ____
 
-
-<!--   
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=Piyushxbajaj&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
- -->
-
-
-
-
-
-<h3 align="center"> Other Accounts 📫 </h3>
-<br />
+<br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/priyanshkedia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
