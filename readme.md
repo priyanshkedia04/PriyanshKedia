@@ -7,8 +7,8 @@
 <p align="center"> <samp>
   
  <code>
- Student at Delhi Technological University | Expertise in Machine Learning, Deep Learning and Artificial Intelligence
- | Python Developer | Research Student
+ Student at Delhi Technological University | Expertise in Machine Learning, Deep Learning and Artificial Intelligence 
+Python Developer | Research Student
   
   </code>
   
