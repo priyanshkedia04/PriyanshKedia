@@ -76,9 +76,6 @@
 <span><b><center>Data Structures and Algorithms</center></b></span> 
 </td>
 </tr>
-<tr>
-
-</tr>
 
 </tbody>
 </table>
@@ -86,7 +83,6 @@
 
 ____
 
-<br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/priyanshkedia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
