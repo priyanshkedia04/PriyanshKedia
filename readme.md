@@ -83,5 +83,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/priyanshkedia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1mDyNG0dc53amxkvidotnx4TO6ZrB8j4P/view"><img width = 22% src="https://img.shields.io/badge/Priyansh%20Kedia-Resume-blue"/></a>
 
 
