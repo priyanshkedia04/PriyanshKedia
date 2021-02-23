@@ -65,7 +65,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
+<span><b><center>C++</center></b></span> 
 </td>
 
 <td align="center" width="20%">
