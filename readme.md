@@ -91,6 +91,8 @@
 <span><b><center><a href = "https://www.tandfonline.com/doi/abs/10.1080/09720529.2020.1721870">2. Analysis of Machine Learning Models for Malware Detection</a></center></b></span>
 
 <span><b><center><a href = "https://www.tandfonline.com/doi/abs/10.1080/09720510.2020.1724627">3. Analysis of Various Approaches for Stock Market Prediction</a></center></b></span> 
+  
+<span><b><center><a href = "https://ieeexplore.ieee.org/abstract/document/9441966">4.  Review of Various Mathematical and Deep Learning based Forecasting Methods for COVID-19 Pandemic</a></center></b></span> 
 
 _____________
 
